@@ -1,0 +1,1 @@
+The Walmart dataset comprises data from 45 hypermarkets, detailing store information and monthly sales on a weekly basis. The analysis targets predicting weekly sales, emphasizing the influence of holidays like Christmas, Thanksgiving, Super Bowl, and Labor Day. It aims to discern the impact of time, location, and holidays on sales trends.
